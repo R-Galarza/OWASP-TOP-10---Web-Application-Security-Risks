@@ -1,9 +1,4 @@
 # OWASP TOP 10 Web Application Security Risks
-Aquí tienes una versión en **inglés**, bien organizada, clara y lista para pegar como `README.md`. Es sobria, educativa y con mentalidad correcta para GitHub, recruiters y la comunidad técnica.
-
----
-
-# OWASP Top 10 – Web Application Security Risks (Hands-On)
 
 ## Overview
 
