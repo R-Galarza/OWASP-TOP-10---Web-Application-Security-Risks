@@ -46,6 +46,3 @@ All content in this repository is intended **for educational purposes only**.
 Testing and exploitation are performed exclusively in controlled environments.
 Do not use these techniques against systems without explicit authorization.
 
-
-Eso ya es nivel portfolio serio, no repo de práctica.
-
