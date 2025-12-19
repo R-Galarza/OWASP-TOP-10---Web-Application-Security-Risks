@@ -13,8 +13,6 @@ The goal of this project is to understand how attackers think and how to defend 
 * Realistic exploitation scenarios
 * Clear and actionable remediation guidance
 
-This repository prioritizes **practical understanding over academic explanations**.
-
 ## Repository Structure
 
 Each OWASP Top 10 vulnerability has its own directory and includes:
