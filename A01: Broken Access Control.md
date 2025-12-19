@@ -118,7 +118,7 @@ Adding authentication alone does not mitigate this vulnerability.
 ## References
 
 * OWASP Top 10 – Broken Access Control
-* [OWASP Top 10 – Web Application Security Risks](https://github.com/R-Galarza/OWASP-TOP-10---Web-Application-Security-Risks)
+* [OWASP Top 10 – Web Application Security Risks](https://github.com/R-Galarza/htb-writeups-retired/blob/main/Cache.md)
 
 ---
 
