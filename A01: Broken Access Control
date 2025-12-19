@@ -1,13 +1,9 @@
-Perfecto. Aquí va **todo en Markdown puro**, sin explicaciones extra, listo para pegar tal cual en GitHub.
 
----
-
-````md
 # A01: Broken Access Control
 
 ## Overview
 
-Broken Access Control occurs when an application fails to properly enforce restrictions on what authenticated or unauthenticated users are allowed to do.  
+Broken Access Control occurs when an application fails to properly enforce restrictions on what authenticated or unauthenticated users are allowed to do.
 When access checks are missing, poorly implemented, or only enforced on the client side, attackers can perform actions outside their intended permissions.
 
 This vulnerability consistently ranks as one of the most critical risks because it often leads directly to data exposure, privilege escalation, or full account compromise.
@@ -22,9 +18,9 @@ A regular authenticated user notices that restricted functionality is accessible
 
 The attacker assumes:
 
-- The user is authenticated but not privileged
-- The application trusts client-side role validation
-- Backend endpoints are not consistently protected
+* The user is authenticated but not privileged
+* The application trusts client-side role validation
+* Backend endpoints are not consistently protected
 
 ---
 
@@ -36,7 +32,7 @@ The attacker intercepts a legitimate request using Burp Suite and observes the f
 GET /api/admin/users HTTP/1.1
 Host: vulnerable-app.local
 Cookie: session=USER_SESSION
-````
+```
 
 Despite being authenticated as a standard user, the server responds with:
 
@@ -122,10 +118,7 @@ Adding authentication alone does not mitigate this vulnerability.
 ## References
 
 * OWASP Top 10 – Broken Access Control
- <a href="https://github.com/R-Galarza/htb-writeups-retired/blob/main/Cache">
-      OWASP Top 10 – Web Application Security Risks
-    </a>
-
-```
+* [OWASP Top 10 – Web Application Security Risks](https://github.com/R-Galarza/OWASP-TOP-10---Web-Application-Security-Risks)
 
 ---
+
