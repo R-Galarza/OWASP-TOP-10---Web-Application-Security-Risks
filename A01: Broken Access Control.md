@@ -116,8 +116,7 @@ Adding authentication alone does not mitigate this vulnerability.
 ---
 
 ## References
-
-* OWASP Top 10 – Broken Access Control
+* [OWASP Top 10 – Broken Access Control](https://owasp.org/Top10/2025/A01_2025-Broken_Access_Control/)
 
 ## Proof of Concept (PoC) Labs
 * [Hack The Box Machine - Cache](https://github.com/R-Galarza/htb-writeups-retired/blob/main/Cache.md)
