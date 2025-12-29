@@ -46,4 +46,9 @@ http://risk-admin.vulnerable-app.local
 
 ## References
 
-- OWASP Top 10 – Security Misconfiguration
+[OWASP Top 10 - Security Misconfiguration](https://owasp.org/Top10/2025/A02_2025-Security_Misconfiguration/)
+
+## Proof of Concept (PoC) Labs
+* [Hack The Box Machine -]()
+---
+
