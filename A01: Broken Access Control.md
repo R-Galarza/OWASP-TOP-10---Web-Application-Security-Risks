@@ -119,6 +119,6 @@ Adding authentication alone does not mitigate this vulnerability.
 * [OWASP Top 10 – Broken Access Control](https://owasp.org/Top10/2025/A01_2025-Broken_Access_Control/)
 
 ## Proof of Concept (PoC) Labs
-* [Hack The Box Machine - Good Games](https://github.com/R-Galarza/htb-writeups-retired/blob/main/GoodGames.md) - Privilege escalation due to missing authorization checks
+* [Hack The Box Machine -]()
 ---
 
