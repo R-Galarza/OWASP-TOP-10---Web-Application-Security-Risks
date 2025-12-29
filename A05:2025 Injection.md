@@ -53,5 +53,11 @@ Payload:
 
 ## References
 
-- OWASP Top 10 – Injection
+* [OWASP Top 10 – Injection](https://owasp.org/Top10/2025/A05_2025-Injection/)
+
+## Proof of Concept (PoC) Labs
+* [Hack The Box Machine - GoodGames](https://github.com/R-Galarza/htb-writeups-retired/blob/6dcafd874b08577b291443c27644df41a16531f6/GoodGames/README.md)
+---
+
+
 
