@@ -45,5 +45,10 @@ Vulnerable dependency version detected in application stack
 ---
 
 ## References
+* [OWASP Top 10 – Software Supply Chain Failures](https://owasp.org/Top10/2025/A03_2025-Software_Supply_Chain_Failures/)
 
-- OWASP Top 10 – Software Supply Chain Failures
+## Proof of Concept (PoC) Labs
+* [Hack The Box Machine -]()
+---
+
+
