@@ -27,9 +27,9 @@ Example structure:
 
 ```
 A01-Broken_Access_Control/
-A02-Cryptographic_Failures/
-A03-Injection/
-A04-Insecure_Design/
+A02-Security Misconfiguration/
+A03-Software Supply Chain Failure/
+A04-Cryptographic Failures/
 ...
 ```
 
